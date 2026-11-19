@@ -1,0 +1,557 @@
+{
+  "game": "Grand Theft Auto VI",
+  "platform": "PlayStation 5",
+  "list": "the official 55 trophies, 2026-11-18",
+  "trophies": [
+    {
+      "id": 1,
+      "name": "Vice Got a Price!",
+      "description": "Congratulations! You're a Leonida Legend.",
+      "grade": "platinum",
+      "guide": "Earn all other 54 trophies. This unlocks automatically when the platinum requirements are met. No separate action needed.",
+      "kind": "story",
+      "missable": false,
+      "roadmapStage": 5
+    },
+    {
+      "id": 2,
+      "name": "Just Like Paradise",
+      "description": "Complete Gone Fishing.",
+      "grade": "bronze",
+      "guide": "Play through the opening mission \"Gone Fishing\" which serves as the tutorial. It introduces basic controls, combat, and driving. Cannot be missed \u2014 it's the first mission.",
+      "kind": "story",
+      "missable": false,
+      "roadmapStage": 1
+    },
+    {
+      "id": 3,
+      "name": "Paradise Lost",
+      "description": "Complete Chapter 1.",
+      "grade": "bronze",
+      "guide": "Finish all missions in Chapter 1. This chapter establishes the setting and main characters. Progress naturally through the story.",
+      "kind": "story",
+      "missable": false,
+      "roadmapStage": 1
+    },
+    {
+      "id": 4,
+      "name": "T**s Ass Drug Money",
+      "description": "Complete Chapter 2.",
+      "grade": "bronze",
+      "guide": "Finish all missions in Chapter 2. The story expands to new areas and introduces key factions. Cannot be missed.",
+      "kind": "story",
+      "missable": false,
+      "roadmapStage": 2
+    },
+    {
+      "id": 5,
+      "name": "Vice City, Baby!",
+      "description": "Complete Chapter 3.",
+      "grade": "bronze",
+      "guide": "Finish all Chapter 3 missions. Major story developments occur here. Natural story progression.",
+      "kind": "story",
+      "missable": false,
+      "roadmapStage": 3
+    },
+    {
+      "id": 6,
+      "name": "Top Of The World, Ma",
+      "description": "Complete Chapter 4.",
+      "grade": "bronze",
+      "guide": "Finish Chapter 4 missions. This is the penultimate chapter before the finale. Story-only, cannot miss.",
+      "kind": "story",
+      "missable": false,
+      "roadmapStage": 4
+    },
+    {
+      "id": 7,
+      "name": "You Gotta Know When to Get Off",
+      "description": "Complete the final mission.",
+      "grade": "gold",
+      "guide": "Finish the game's final mission. This is a gold trophy and the story conclusion. Cannot be missed if you finish the game.",
+      "kind": "story",
+      "missable": false,
+      "roadmapStage": 5
+    },
+    {
+      "id": 8,
+      "name": "Trust",
+      "description": "Complete Breakfast Run.",
+      "grade": "bronze",
+      "guide": "Complete the mission \"Breakfast Run\" which appears during the story. It's a main mission, not a stranger strand.",
+      "kind": "story",
+      "missable": false,
+      "roadmapStage": 2
+    },
+    {
+      "id": 9,
+      "name": "Break the Bank",
+      "description": "Complete The Cartel Heist.",
+      "grade": "bronze",
+      "guide": "Finish the mission \"The Cartel Heist\" \u2014 a major story heist mission. Part of the main narrative.",
+      "kind": "story",
+      "missable": false,
+      "roadmapStage": 3
+    },
+    {
+      "id": 10,
+      "name": "Family Matters",
+      "description": "Complete Child's Play.",
+      "grade": "bronze",
+      "guide": "Complete the mission \"Child's Play\" \u2014 a story mission involving family dynamics. Main path, not missable.",
+      "kind": "story",
+      "missable": false,
+      "roadmapStage": 2
+    },
+    {
+      "id": 11,
+      "name": "DWNFALL",
+      "description": "Complete Headliners.",
+      "grade": "bronze",
+      "guide": "Finish the mission \"Headliners\" \u2014 a story mission. Progress the narrative to unlock it.",
+      "kind": "story",
+      "missable": false,
+      "roadmapStage": 3
+    },
+    {
+      "id": 12,
+      "name": "Hi-Jacked",
+      "description": "Complete VCIA Takedown.",
+      "grade": "bronze",
+      "guide": "Finish the mission \"VCIA Takedown\" \u2014 a story mission involving the VCIA agency. Main path.",
+      "kind": "story",
+      "missable": false,
+      "roadmapStage": 4
+    },
+    {
+      "id": 13,
+      "name": "Snow Storm",
+      "description": "Complete Operation Savage Glory.",
+      "grade": "bronze",
+      "guide": "Complete the mission \"Operation Savage Glory\" \u2014 a story mission. Cannot be missed.",
+      "kind": "story",
+      "missable": false,
+      "roadmapStage": 4
+    },
+    {
+      "id": 14,
+      "name": "A Long Road",
+      "description": "Attain 100% Completion.",
+      "grade": "gold",
+      "guide": "Achieve 100% game completion \u2014 all missions, collectibles, activities, and challenges. This is the biggest time investment. Do this last after everything else.",
+      "kind": "collectibles",
+      "missable": false,
+      "roadmapStage": 5
+    },
+    {
+      "id": 15,
+      "name": "Cunning Stunts",
+      "description": "Complete 250 Stunts.",
+      "grade": "silver",
+      "guide": "Perform 250 stunt jumps across Leonida. Stunt locations are marked on the map once discovered. Can be done anytime after unlocking the map. Silver trophy for the grind.",
+      "kind": "activities",
+      "missable": false,
+      "roadmapStage": 3
+    },
+    {
+      "id": 16,
+      "name": "Master of None",
+      "description": "Try each type of activity once.",
+      "grade": "bronze",
+      "guide": "There are 9 activity types in the game (racing, shooting range, drone racing, fishing, arcade, meditation, hunting, bowling, stunt jumps). Simply start each one once. Do this early while exploring.",
+      "kind": "activities",
+      "missable": false,
+      "roadmapStage": 2
+    },
+    {
+      "id": 17,
+      "name": "The Shootist",
+      "description": "Earn a gold medal in all Shooting Range challenges.",
+      "grade": "silver",
+      "guide": "There are 42 Shooting Range challenges across multiple locations. Each requires Gold medal (high score + accuracy + time). Practice each, learn patterns. Silver trophy for mastery.",
+      "kind": "activities",
+      "missable": false,
+      "roadmapStage": 4
+    },
+    {
+      "id": 18,
+      "name": "Top Fun",
+      "description": "Win a Top Fun Drone Race at every location.",
+      "grade": "bronze",
+      "guide": "There are 14 Top Fun Drone Race locations across Leonida. Win each race (1st place) at least once. Drone controls take practice \u2014 use boost strategically.",
+      "kind": "activities",
+      "missable": false,
+      "roadmapStage": 3
+    },
+    {
+      "id": 19,
+      "name": "Earn Cash, Not Kudos",
+      "description": "Win 20 different races.",
+      "grade": "bronze",
+      "guide": "Win 20 unique race events (street races, off-road, etc.). Each distinct race counts once. Can be done throughout the game. Focus on easier races first.",
+      "kind": "activities",
+      "missable": false,
+      "roadmapStage": 3
+    },
+    {
+      "id": 20,
+      "name": "Baited My Tackle",
+      "description": "Beat Cal in a fishing challenge.",
+      "grade": "bronze",
+      "guide": "Cal is a fishing challenger. Find his location, accept the challenge, and catch a larger/rarer fish than him. Fishing mechanics: cast, wait for bite, reel with tension management.",
+      "kind": "activities",
+      "missable": false,
+      "roadmapStage": 2
+    },
+    {
+      "id": 21,
+      "name": "Stick Fiddler",
+      "description": "Complete an arcade game.",
+      "grade": "bronze",
+      "guide": "Find any arcade cabinet (located in bars, arcades, malls) and play one game to completion (win or lose). Simple bronze \u2014 just interact with an arcade machine.",
+      "kind": "activities",
+      "missable": false,
+      "roadmapStage": 1
+    },
+    {
+      "id": 22,
+      "name": "Road to Rehabilitation",
+      "description": "Complete the final mission for Andy.",
+      "grade": "bronze",
+      "guide": "Andy is a stranger with a mission strand. Complete all his missions, ending with his final one. Stranger missions appear as '?' on map. Do all 8 stranger strands for the silver trophy too.",
+      "kind": "missable",
+      "missable": true,
+      "roadmapStage": 3
+    },
+    {
+      "id": 23,
+      "name": "This Was No Boat Accident",
+      "description": "Complete the final mission for Kenton.",
+      "grade": "bronze",
+      "guide": "Kenton's stranger strand. Complete all his missions. Part of the 8 strands needed for \"Strangers & Freaks\" silver.",
+      "kind": "missable",
+      "missable": true,
+      "roadmapStage": 3
+    },
+    {
+      "id": 24,
+      "name": "The Lone Rider",
+      "description": "Complete the final mission for Billy.",
+      "grade": "bronze",
+      "guide": "Billy's stranger strand. Finish all his missions for this bronze and progress toward the silver for 8 strands.",
+      "kind": "missable",
+      "missable": true,
+      "roadmapStage": 3
+    },
+    {
+      "id": 25,
+      "name": "Strangers & Freaks",
+      "description": "Complete 8 mission strands for strangers across the state of Leonida.",
+      "grade": "silver",
+      "guide": "There are exactly 8 stranger mission strands (Andy, Kenton, Billy, Randy, Tyrone, plus 3 others). Complete all missions in all 8 strands. This is the main missable silver \u2014 do all stranger content before the final chapter.",
+      "kind": "missable",
+      "missable": true,
+      "roadmapStage": 4
+    },
+    {
+      "id": 26,
+      "name": "Supply & Demand",
+      "description": "Complete the final mission for Randy.",
+      "grade": "bronze",
+      "guide": "Randy's stranger strand. Complete his missions for this bronze and the Strangers & Freaks silver.",
+      "kind": "missable",
+      "missable": true,
+      "roadmapStage": 3
+    },
+    {
+      "id": 27,
+      "name": "Spin On This!",
+      "description": "Complete the final mission for Tyrone.",
+      "grade": "bronze",
+      "guide": "Tyrone's stranger strand. Finish his missions for bronze and silver progress.",
+      "kind": "missable",
+      "missable": true,
+      "roadmapStage": 3
+    },
+    {
+      "id": 28,
+      "name": "Positive Mental Attitude",
+      "description": "Meditate at every spot across Leonida.",
+      "grade": "bronze",
+      "guide": "There are 18 meditation spots scattered across the map. Interact at each to meditate. Spots are marked once discovered. Can be done anytime \u2014 not missable.",
+      "kind": "collectibles",
+      "missable": false,
+      "roadmapStage": 2
+    },
+    {
+      "id": 29,
+      "name": "Fair Game",
+      "description": "Hunt a unique animal for Bret.",
+      "grade": "bronze",
+      "guide": "Bret is a hunter stranger. He tasks you with hunting a specific unique/legendary animal. Track it, hunt it, deliver. Part of a stranger strand.",
+      "kind": "missable",
+      "missable": true,
+      "roadmapStage": 2
+    },
+    {
+      "id": 30,
+      "name": "Don't Touch My Deck",
+      "description": "Complete 3 Collectible Card sets.",
+      "grade": "silver",
+      "guide": "Collectible Cards are scattered across Leonida (52+ cards). They form sets. Complete any 3 full sets. Cards are found in specific locations \u2014 use map/guides. Silver for the collection effort.",
+      "kind": "collectibles",
+      "missable": false,
+      "roadmapStage": 4
+    },
+    {
+      "id": 31,
+      "name": "You WAiNKer!",
+      "description": "WAiNK It at 100 locations.",
+      "grade": "silver",
+      "guide": "WAiNK spots are photo-op locations (100 total). At each, use the WAiNK app to take a photo. Marked on map once near. Silver for completing all 100 \u2014 a major exploration trophy.",
+      "kind": "collectibles",
+      "missable": false,
+      "roadmapStage": 4
+    },
+    {
+      "id": 32,
+      "name": "One Last Thing",
+      "description": "Complete 50 Challenges.",
+      "grade": "bronze",
+      "guide": "Challenges are gameplay feats (kills with specific weapons, driving feats, etc.). 50 total across all categories. Many unlock naturally. Check Challenges menu for progress.",
+      "kind": "activities",
+      "missable": false,
+      "roadmapStage": 3
+    },
+    {
+      "id": 33,
+      "name": "Hot Together",
+      "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+      "grade": "bronze",
+      "guide": "During a mission with your partner (co-op story character), reach 4-star wanted level, then lose the cops together. Likely occurs in a specific story mission \u2014 just play naturally.",
+      "kind": "story",
+      "missable": false,
+      "roadmapStage": 3
+    },
+    {
+      "id": 34,
+      "name": "Retail Therapy",
+      "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+      "grade": "bronze",
+      "guide": "With your partner, rob 3 stores consecutively while maintaining a wanted level (don't lose the cops). Likely a specific mission or free-roam activity with partner.",
+      "kind": "activities",
+      "missable": false,
+      "roadmapStage": 3
+    },
+    {
+      "id": 35,
+      "name": "Whip It Good",
+      "description": "Discover 100 vehicles.",
+      "grade": "bronze",
+      "guide": "Enter/drive 100 unique vehicle models. The game has 100+ vehicles. Just drive everything you see \u2014 cars, bikes, boats, helicopters, planes. Natural through exploration.",
+      "kind": "collectibles",
+      "missable": false,
+      "roadmapStage": 2
+    },
+    {
+      "id": 36,
+      "name": "Gunslinger",
+      "description": "Take down 5 enemies in a single use of Combat Focus.",
+      "grade": "bronze",
+      "guide": "Combat Focus is the slow-mo ability. Activate it when 5+ enemies are in view, then kill 5 before it ends. Do this in a combat-heavy mission or ambush.",
+      "kind": "activities",
+      "missable": false,
+      "roadmapStage": 2
+    },
+    {
+      "id": 37,
+      "name": "Catch Me If You Can",
+      "description": "Make an unscheduled departure at VCIA.",
+      "grade": "bronze",
+      "guide": "VCIA is a location/faction. \"Unscheduled departure\" means escaping dramatically \u2014 likely stealing a helicopter or plane from their facility during a mission or free roam.",
+      "kind": "activities",
+      "missable": false,
+      "roadmapStage": 4
+    },
+    {
+      "id": 38,
+      "name": "Challenging Tank",
+      "description": "Kinda hot in these Rhinos.",
+      "grade": "bronze",
+      "guide": "Rhinos are tanks. This trophy likely requires destroying or surviving Rhino tanks. Could be in a mission or free roam military response. Engage tanks and deal with them.",
+      "kind": "activities",
+      "missable": false,
+      "roadmapStage": 3
+    },
+    {
+      "id": 39,
+      "name": "Sneakthief",
+      "description": "Rob a jewelry store without being detected.",
+      "grade": "bronze",
+      "guide": "Stealth robbery of a jewelry store. Enter quietly, avoid cameras/guards, grab loot, leave unseen. Can be done in free roam at jewelry store locations.",
+      "kind": "activities",
+      "missable": false,
+      "roadmapStage": 2
+    },
+    {
+      "id": 40,
+      "name": "Maximum Withdrawal",
+      "description": "Rob 5 Bank Vaults and escape.",
+      "grade": "silver",
+      "guide": "There are 5 bank vault heists (distinct from story heists). Each requires planning/entry, cracking vault, escaping. Silver for completing all 5. Do them when available.",
+      "kind": "activities",
+      "missable": false,
+      "roadmapStage": 4
+    },
+    {
+      "id": 41,
+      "name": "A Classic Blitz Play",
+      "description": "Rob an Armored Truck and escape.",
+      "grade": "bronze",
+      "guide": "Armored trucks spawn randomly or at fixed locations. Ram/stop the truck, blow doors, grab cash, escape police. One successful robbery = bronze.",
+      "kind": "activities",
+      "missable": false,
+      "roadmapStage": 2
+    },
+    {
+      "id": 42,
+      "name": "The Goodtime State",
+      "description": "Explore all of Leonida.",
+      "grade": "bronze",
+      "guide": "Reveal all 52 named areas/regions on the map. Simply drive/fly/walk everywhere. Fog of war clears as you travel. Natural through 100% completion.",
+      "kind": "collectibles",
+      "missable": false,
+      "roadmapStage": 2
+    },
+    {
+      "id": 43,
+      "name": "Pest Control",
+      "description": "Rob an Illegal Operation belonging to each gang.",
+      "grade": "bronze",
+      "guide": "There are 9 gangs in Leonida. Each has illegal operations (drug labs, chop shops, etc.). Rob one operation per gang (9 total). Map shows gang territories.",
+      "kind": "activities",
+      "missable": false,
+      "roadmapStage": 3
+    },
+    {
+      "id": 44,
+      "name": "In The Beginning\u2026",
+      "description": "Enjoy a cocktail with a view on Ocean Beach.",
+      "grade": "bronze",
+      "guide": "Ocean Beach is a district. Find a bar/restaurant there with a view, interact to drink a cocktail. Simple exploration trophy.",
+      "kind": "activities",
+      "missable": false,
+      "roadmapStage": 1
+    },
+    {
+      "id": 45,
+      "name": "Capital Offense",
+      "description": "Smash your way out of a vehicle showroom in classic style.",
+      "grade": "bronze",
+      "guide": "Find a vehicle showroom (dealership), drive a car through the window/wall to exit. \"Classic style\" references GTA Vice City. Just drive through the glass.",
+      "kind": "activities",
+      "missable": false,
+      "roadmapStage": 1
+    },
+    {
+      "id": 46,
+      "name": "Let\u2019s Go Bowling",
+      "description": "Follow-through at the Kolt & Associates' bowling alley.",
+      "grade": "bronze",
+      "guide": "Specific bowling alley location (Kolt & Associates). Play a game of bowling there. Complete a frame or game. Simple activity trophy.",
+      "kind": "activities",
+      "missable": false,
+      "roadmapStage": 1
+    },
+    {
+      "id": 47,
+      "name": "Personal Best",
+      "description": "A partnership with mass appeal.",
+      "grade": "bronze",
+      "guide": "Likely a co-op/partner mission with a specific outcome. \"Mass appeal\" suggests a public spectacle. Play partner missions to unlock.",
+      "kind": "story",
+      "missable": false,
+      "roadmapStage": 3
+    },
+    {
+      "id": 48,
+      "name": "Actions Speak Louder",
+      "description": "Choices made (for better or worse).",
+      "grade": "bronze",
+      "guide": "The game tracks choices (PSN shows a count to 500). Make 500 choices across dialogue, mission branching, etc. Accumulates naturally.",
+      "kind": "activities",
+      "missable": false,
+      "roadmapStage": 3
+    },
+    {
+      "id": 49,
+      "name": "Bad Luck, I Guess",
+      "description": "Second time's the charm.",
+      "grade": "bronze",
+      "guide": "Succeed at something on the second attempt after failing first. Could be a mission retry, challenge retry, or specific event. Happens naturally.",
+      "kind": "activities",
+      "missable": false,
+      "roadmapStage": 2
+    },
+    {
+      "id": 50,
+      "name": "The Truth Is Out There",
+      "description": "What the hell just happened?",
+      "grade": "bronze",
+      "guide": "Witness a strange/secret event \u2014 likely an Easter egg (UFO, Bigfoot, ghost, etc.). Explore remote areas at night, check known mystery locations.",
+      "kind": "activities",
+      "missable": false,
+      "roadmapStage": 4
+    },
+    {
+      "id": 51,
+      "name": "Ten Pin",
+      "description": "Bowl 'em over with a melee drive-by.",
+      "grade": "bronze",
+      "guide": "While driving, perform a melee attack (drive-by) that knocks down multiple pedestrians like bowling pins. Find a crowd, drive through with melee equipped.",
+      "kind": "activities",
+      "missable": false,
+      "roadmapStage": 2
+    },
+    {
+      "id": 52,
+      "name": "Dime on the Dollar",
+      "description": "Earn $250,000 laundering Marked Bills through your contacts.",
+      "grade": "bronze",
+      "guide": "Marked Bills are acquired from robberies/heists. Use contact missions/laundering mechanics to clean $250k total. Accumulates over time.",
+      "kind": "activities",
+      "missable": false,
+      "roadmapStage": 3
+    },
+    {
+      "id": 53,
+      "name": "Treat Yo Self",
+      "description": "Spend $100,000 across all shops.",
+      "grade": "bronze",
+      "guide": "Cumulative spending at shops (clothing, weapons, vehicles, food, etc.). $100k total across the playthrough. Natural with normal play.",
+      "kind": "activities",
+      "missable": false,
+      "roadmapStage": 2
+    },
+    {
+      "id": 54,
+      "name": "Little Boxes",
+      "description": "Purchase all garage properties.",
+      "grade": "bronze",
+      "guide": "There are 8 garage properties to buy. They unlock as you progress. Buy all 8 for vehicle storage. Bronze for the real estate portfolio.",
+      "kind": "collectibles",
+      "missable": false,
+      "roadmapStage": 3
+    },
+    {
+      "id": 55,
+      "name": "On the Spot",
+      "description": "Register 10 vehicles to the Scooter Bros app.",
+      "grade": "bronze",
+      "guide": "Scooter Bros is an in-game app for vehicle registration. Register 10 different vehicles in the app. Drive a vehicle, open app, register it.",
+      "kind": "activities",
+      "missable": false,
+      "roadmapStage": 2
+    }
+  ]
+}

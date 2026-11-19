@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>GTA 6 Trophy Guide & Tracker</title>
+<link rel="stylesheet" href="style.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Georgia:wght@400;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+<div class="app" data-theme="light">
+<header class="header">
+<div class="header-left">
+<h1>GTA 6 Trophy Guide</h1>
+<span class="subtitle">Offline tracker — 55 trophies</span>
+</div>
+<div class="header-center">
+<div class="progress-ring" role="img" aria-label="Platinum progress">
+<svg width="64" height="64"><circle class="ring-bg" cx="32" cy="32" r="28"></circle><circle class="ring-progress" cx="32" cy="32" r="28" stroke-dasharray="176" stroke-dashoffset="176"></circle></svg>
+<span class="progress-text"><span id="earned-count">0</span>/55</span>
+</div>
+<div class="platinum-badge" id="platinum-badge" hidden>🏆 Platinum</div>
+</div>
+<div class="header-right">
+<div class="controls">
+<select id="grade-filter" aria-label="Filter by grade">
+<option value="all">All Grades</option>
+<option value="platinum">Platinum</option>
+<option value="gold">Gold</option>
+<option value="silver">Silver</option>
+<option value="bronze">Bronze</option>
+</select>
+<select id="kind-filter" aria-label="Filter by kind">
+<option value="all">All Types</option>
+<option value="story">Story</option>
+<option value="missable">Missable</option>
+<option value="collectibles">Collectibles</option>
+<option value="activities">Activities</option>
+</select>
+<label class="toggle spoiler-toggle" title="Hide story trophy details">
+<input type="checkbox" id="spoiler-toggle" aria-label="Spoiler mode">
+<span class="toggle-slider"></span>
+<span class="toggle-label">Spoilers</span>
+</label>
+<button id="export-btn" class="btn btn-secondary" aria-label="Export progress">⬇ Export</button>
+<label class="btn btn-secondary" aria-label="Import progress">⬆ Import<input type="file" id="import-file" accept=".json" hidden></label>
+<button id="theme-toggle" class="btn btn-icon" aria-label="Toggle theme" title="Toggle light/dark">🌙</button>
+</div>
+</div>
+</header>
+
+<nav class="tabs" role="tablist" aria-label="Main sections">
+<button class="tab active" role="tab" data-tab="checklist" aria-selected="true">Checklist</button>
+<button class="tab" role="tab" data-tab="roadmap" aria-selected="false">Roadmap</button>
+<button class="tab" role="tab" data-tab="missables" aria-selected="false">Missables</button>
+<button class="tab" role="tab" data-tab="settings" aria-selected="false">Settings</button>
+</nav>
+
+<main class="main">
+<section class="panel active" id="panel-checklist" role="tabpanel" aria-labelledby="tab-checklist">
+<div class="table-wrapper">
+<table class="trophy-table" id="trophy-table">
+<thead>
+<tr>
+<th scope="col">#</th>
+<th scope="col">Trophy</th>
+<th scope="col">Grade</th>
+<th scope="col">Type</th>
+<th scope="col">Guide</th>
+<th scope="col">Sources</th>
+<th scope="col"><input type="checkbox" id="select-all" aria-label="Select all visible"></th>
+</tr>
+</thead>
+<tbody id="trophy-body"></tbody>
+</table>
+</div>
+</section>
+
+<section class="panel" id="panel-roadmap" role="tabpanel" aria-labelledby="tab-roadmap" hidden>
+<div class="roadmap" id="roadmap"></div>
+</section>
+
+<section class="panel" id="panel-missables" role="tabpanel" aria-labelledby="tab-missables" hidden>
+<div class="missables" id="missables"></div>
+</section>
+
+<section class="panel" id="panel-settings" role="tabpanel" aria-labelledby="tab-settings" hidden>
+<div class="settings">
+<h2>Settings</h2>
+<fieldset>
+<legend>Spoiler Settings</legend>
+<label class="setting-row">
+<input type="checkbox" id="spoiler-setting" checked>
+<span>Hide story trophy names & descriptions until earned</span>
+</label>
+<label class="setting-row">
+<input type="checkbox" id="spoiler-auto" checked>
+<span>Auto-reveal when trophy earned</span>
+</label>
+</fieldset>
+<fieldset>
+<legend>Data</legend>
+<button id="clear-data" class="btn btn-danger">Clear All Progress</button>
+<p class="hint">Exports/imports use JSON. Progress stored in browser localStorage.</p>
+</fieldset>
+<fieldset>
+<legend>About</legend>
+<p>Data sources: <a href="https://www.exophase.com/game/grand-theft-auto-vi-psn/trophies/" target="_blank" rel="noopener">Exophase</a>, <a href="https://psnprofiles.com/trophies/43531-grand-theft-auto-vi" target="_blank" rel="noopener">PSNProfiles</a>, official descriptions.</p>
+<p>Built for <a href="https://make.fun/bounty/gta6-trophy-guide-01" target="_blank" rel="noopener">make.fun gta6-trophy-guide-01</a>.</p>
+</fieldset>
+</div>
+</section>
+</main>
+
+<footer class="footer">
+<p>Offline GTA 6 Trophy Guide & Tracker — No network requests • Data stored locally • <a href="https://github.com/KanekiCraynet/gta6-trophy-guide-01" target="_blank" rel="noopener">GitHub</a></p>
+</footer>
+
+<div class="modal" id="guide-modal" role="dialog" aria-modal="true" aria-labelledby="modal-title" hidden>
+<div class="modal-content">
+<button class="modal-close" aria-label="Close">&times;</button>
+<h3 id="modal-title"></h3>
+<div id="modal-body"></div>
+<div class="modal-sources" id="modal-sources"></div>
+</div>
+</div>
+
+<div class="toast" id="toast" role="status" aria-live="polite" hidden></div>
+</div>
+
+<script type="module" src="app.js"></script>
+</body>
+</html>
